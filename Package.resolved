@@ -4,10 +4,10 @@
     {
       "identity" : "anisettekit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/mahee96/AnisetteKit.git",
+      "location" : "https://github.com/MELCOTanihiro/AnisetteKit.git",
       "state" : {
-        "branch" : "main",
-        "revision" : "1f5a7e36553cc865b873f222b87a6486c0bcc7bf"
+        "branch" : "fix-plist-parse-error-swallowing",
+        "revision" : "a4ed01c418abcd9d0bce32af0ef348521afcff24"
       }
     },
     {
